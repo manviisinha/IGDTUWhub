@@ -11,10 +11,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Programming Fundamentals",
-                  "Data Structures",
-                  "Web Development",
-                  "Discrete Mathematics",
+                  "Probability and Statistics",
+                  "Environmental Sciences",
+                  "Communication Skills",
+                  "Programming with Python",
+                  "Basics of Electrical and Electronics Engineering",
+                  "IT Workshop",
                 ],
                 "2nd Semester": [
                   "Computer Organization",
@@ -73,30 +75,39 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Discrete Mathematics",
-                  "Object-Oriented Programming",
-                  "Data Structures",
-                  "Algorithms",
+                  "Applied Mathematics-I",
+                  "Applied Physics-I",
+                  "Applied Chemistry",
+                  "Workshop ",
+                  "Programming in C Language",
+                  "Humanities and Social Science",
+                  "Basics of Electrical and Electronics Engineering", 
                 ],
                 "2nd Semester": [
-                  "Computer Organization",
-                  "Operating Systems",
-                  "Software Engineering",
-                  "Computer Networks",
+                  "Applied Mathematics-II",
+                  "Applied Physics-II",
+                  "Environmental Science",
+                  "Programming in C Language",
+                  "Humanities and Social Science",
+                  "Basics of Electrical and Electronics Engineering", 
                 ],
               },
               2: {
                 "3rd Semester": [
-                  "Database Management",
-                  "Web Technologies",
-                  "Compiler Design",
-                  "Cyber Security",
+                  "Discrete Mathematics",
+                  "Software Engineering",
+                  "Design and Analysis of Algorithm",
+                  "Operations Management",
+                  "Ergonomic Design",
+                  "Indian Knowledge System",
+                  "Introduction to Internet of Things",
                 ],
                 "4th Semester": [
-                  "Cloud Computing",
-                  "Mobile Computing",
-                  "Distributed Systems",
-                  "Data Analytics",
+                  "Database Management Systems",
+                  "Computer Organization and Architecture",
+                  "Operating Systems",
+                  "Indian Knowledge System",
+                  "Advanced IoT and Real World Applications",
                 ],
               },
               3: {
@@ -135,10 +146,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Circuit Analysis",
-                  "Digital Electronics",
-                  "Signals and Systems",
-                  "Microprocessors",
+                  "Applied Mathematics",
+                  "Fundamentals of Electrical Sciences (FES)",
+                  "Communication Skills",
+                  "Signals & Systems (SS)",
+                  "Electronics Workshop (EW)",
+                  "Programming Fundamentals (PF) ",
                 ],
                 "2nd Semester": [
                   "Communication Systems",
@@ -197,10 +210,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Analog Electronics",
-                  "Semiconductor Devices",
-                  "Electromagnetic Fields",
-                  "Control Systems",
+                  "Applied Mathematics",
+                  "Fundamentals of Electrical Sciences (FES)",
+                  "Communication Skills",
+                  "Signals & Systems (SS)",
+                  "Electronics Workshop (EW)",
+                  "Programming Fundamentals (PF) ",
                 ],
                 "2nd Semester": [
                   "VLSI Design",
@@ -259,10 +274,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Fundamentals of IT",
-                  "Web Development",
-                  "Data Structures",
-                  "Object-Oriented Programming",
+                  "Applied Mathematics ",
+                  "Applied Physics",
+                  "Communication Skills",
+                  "Programming with Python",
+                  "Web Application Development",
+                  "IT Workshop",
                 ],
                 "2nd Semester": [
                   "Software Engineering",
@@ -273,16 +290,21 @@ document.addEventListener("DOMContentLoaded", () => {
               },
               2: {
                 "3rd Semester": [
-                  "Blockchain",
-                  "Big Data Analytics",
-                  "Mobile Computing",
-                  "Distributed Systems",
+                  "Discrete Mathematics",
+                  "Data Structures and Algorithm",
+                  "Database Management Systems",
+                  "Operations Management",
+                  "Ergonomic Design",
+                  "Indian Knowledge System",
+                  "Open Source Technologies",
                 ],
                 "4th Semester": [
+                  "Design and Analysis of Algorithms",
                   "Operating Systems",
-                  "Computer Networks",
-                  "Information Security",
-                  "Machine Learning",
+                  "Software Engineering",
+                  "Cloud Computing",
+                  "Indian Knowledge System",
+                  "Fundamentals of Devops",
                 ],
               },
               3: {
@@ -321,10 +343,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Introduction to AI",
-                  "Linear Algebra",
                   "Probability and Statistics",
-                  "Reinforcement Learning",
+                  "Environmental Sciences",
+                  "Communication Skills",
+                  "Programming with Python",
+                  "Web Application Development",
+                  "IT Workshop",
                 ],
                 "2nd Semester": [
                   "Neural Networks",
@@ -335,12 +359,22 @@ document.addEventListener("DOMContentLoaded", () => {
               },
               2: {
                 "3rd Semester": [
-                  "Deep Learning",
-                  "Computer Vision",
-                  "Natural Language Processing",
-                  "Capstone Project",
+                  "Discrete Mathematics",
+                  "Data Structures and Algorithm",
+                  "Database Management Systems",
+                  "Operations Management",
+                  "Ergonomic Design",
+                  "Indian Knowledge System",
+                  "Open Source Technologies",
                 ],
-                "4th Semester": ["Robotics", "IoT", "Data Science", "Big Data"],
+                "4th Semester": [
+                  "Design and Analysis of Algorithms",
+                  "Operating Systems",
+                  "Software Engineering",
+                  "Cloud Computing",
+                  "Indian Knowledge System",
+                  "Fundamentals of Devops",
+                ],
               },
               3: {
                 "5th Semester": [
@@ -378,10 +412,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Engineering Mechanics",
-                  "Thermodynamics",
-                  "Fluid Mechanics",
-                  "Strength of Materials",
+                  "Elements of Mechanical Engineering",
+                  "Workshop Practice",
+                  "Applied Mathematics",
+                  "Applied Physics",
+                  "Communication Skills",
+                  "Programming Fundamentals",
                 ],
                 "2nd Semester": [
                   "Kinematics of Machinery",
@@ -440,10 +476,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Marketing Fundamentals",
-                  "Consumer Behavior",
-                  "Statistics for Marketing",
-                  "Principles of Management",
+                  "Elements of Mechanical Engineering",
+                  "Workshop Practice",
+                  "Applied Mathematics",
+                  "Applied Physics",
+                  "Communication Skills",
+                  "Programming Fundamentals",
                 ],
                 "2nd Semester": [
                   "Digital Marketing Strategy",
@@ -516,10 +554,12 @@ document.addEventListener("DOMContentLoaded", () => {
             years: {
               1: {
                 "1st Semester": [
-                  "Engineering Physics",
-                  "Engineering Chemistry",
-                  "Engineering Mathematics",
+                  "Calculus",
                   "Communication Skills",
+                  "Programming in C",
+                  "Environmental Science",
+                  "Web Application Development",
+                  "Basics Electrical Engineering ",
                 ],
                 "2nd Semester": [
                   "Engineering Graphics",
@@ -573,6 +613,171 @@ document.addEventListener("DOMContentLoaded", () => {
             },
           },
         };
+//         const unitMaterials = {
+//   "cse-ai": {
+//     1: {
+//       "1st Semester": {
+//         "Probability and Statistics": "https://drive.google.com/file/d/FAKE_ID_1/view?usp=sharing",
+//         "Environmental Sciences": "https://drive.google.com/drive/folders/1_mNHz2xo30754lAcNJdsQmKZvS3NI_uM?usp=drive_link",
+//         "Communication Skills": "https://drive.google.com/drive/folders/16lHKOBdPbWruYPks3xLFuJte5MzRGtQm?usp=drive_link",
+//         "Programming with Python": "https://drive.google.com/drive/folders/13BGj6bG5bYCRfImMJ0b28Qwfj0SoXfFX?usp=drive_link",
+//         "Basics of Electrical and Electronics Engineering": "https://drive.google.com/file/d/FAKE_ID_5/view?usp=sharing",
+//         "IT Workshop": "https://drive.google.com/drive/folders/1Z7Jh7pcu4XgBrEL0ACR0UGerwutaxqAY?usp=drive_link"
+//       },
+//       "2nd Semester": {
+//         "Computer Organization": "https://drive.google.com/file/d/FAKE_ID_7/view?usp=sharing",
+//         "Algorithms": "https://drive.google.com/file/d/FAKE_ID_8/view?usp=sharing",
+//         "Operating Systems": "https://drive.google.com/file/d/FAKE_ID_9/view?usp=sharing",
+//         "Software Engineering": "https://drive.google.com/file/d/FAKE_ID_10/view?usp=sharing"
+//       }
+//     },
+//     2: {
+//       "3rd Semester": {
+//         "Artificial Intelligence": "https://drive.google.com/file/d/FAKE_ID_11/view?usp=sharing",
+//         "Machine Learning": "https://drive.google.com/file/d/FAKE_ID_12/view?usp=sharing",
+//         "Linear Algebra": "https://drive.google.com/file/d/FAKE_ID_13/view?usp=sharing",
+//         "Reinforcement Learning": "https://drive.google.com/file/d/FAKE_ID_14/view?usp=sharing"
+//       },
+//       "4th Semester": {
+//         "Probability and Statistics": "https://drive.google.com/file/d/FAKE_ID_15/view?usp=sharing",
+//         "Computer Vision": "https://drive.google.com/file/d/FAKE_ID_16/view?usp=sharing",
+//         "Deep Learning": "https://drive.google.com/file/d/FAKE_ID_17/view?usp=sharing",
+//         "Natural Language Processing": "https://drive.google.com/file/d/FAKE_ID_18/view?usp=sharing"
+//       }
+//     },
+//     3: {
+//       "5th Semester": {
+//         "AI Ethics": "https://drive.google.com/file/d/FAKE_ID_19/view?usp=sharing",
+//         "AI in Healthcare": "https://drive.google.com/file/d/FAKE_ID_20/view?usp=sharing",
+//         "Advanced ML": "https://drive.google.com/file/d/FAKE_ID_21/view?usp=sharing",
+//         "Mobile Computing": "https://drive.google.com/file/d/FAKE_ID_22/view?usp=sharing"
+//       },
+//       "6th Semester": {
+//         "Capstone Project": "https://drive.google.com/file/d/FAKE_ID_23/view?usp=sharing",
+//         "Blockchain": "https://drive.google.com/file/d/FAKE_ID_24/view?usp=sharing",
+//         "Cyber Security": "https://drive.google.com/file/d/FAKE_ID_25/view?usp=sharing",
+//         "Cloud Computing": "https://drive.google.com/file/d/FAKE_ID_26/view?usp=sharing"
+//       }
+//     },
+//     4: {
+//       "7th Semester": {
+//         "Data Analytics": "https://drive.google.com/file/d/FAKE_ID_27/view?usp=sharing",
+//         "Big Data": "https://drive.google.com/file/d/FAKE_ID_28/view?usp=sharing",
+//         "Information Security": "https://drive.google.com/file/d/FAKE_ID_29/view?usp=sharing",
+//         "Advanced Algorithms": "https://drive.google.com/file/d/FAKE_ID_30/view?usp=sharing"
+//       },
+//       "8th Semester": {
+//         "Distributed Systems": "https://drive.google.com/file/d/FAKE_ID_31/view?usp=sharing",
+//         "Advanced Topics in AI": "https://drive.google.com/file/d/FAKE_ID_32/view?usp=sharing",
+//         "IoT": "https://drive.google.com/file/d/FAKE_ID_33/view?usp=sharing",
+//         "Robotics": "https://drive.google.com/file/d/FAKE_ID_34/view?usp=sharing"
+//       }
+//     }
+//   },
+
+//   "cse": {
+//     1: {
+//       "1st Semester": {
+//         "Applied Mathematics-I": "https://drive.google.com/file/d/FAKE_ID_35/view?usp=sharing",
+//         "Applied Physics-I": "https://drive.google.com/file/d/FAKE_ID_36/view?usp=sharing",
+//         "Applied Chemistry": "https://drive.google.com/file/d/FAKE_ID_37/view?usp=sharing",
+//         "Workshop": "https://drive.google.com/drive/folders/1Z7Jh7pcu4XgBrEL0ACR0UGerwutaxqAY?usp=drive_link",
+//         "Programming in C Language": "https://drive.google.com/file/d/FAKE_ID_39/view?usp=sharing",
+//         "Humanities and Social Science": "https://drive.google.com/file/d/FAKE_ID_40/view?usp=sharing",
+//         "Basics of Electrical and Electronics Engineering": "https://drive.google.com/file/d/FAKE_ID_41/view?usp=sharing"
+//       },
+//       "2nd Semester": {
+//         "Applied Mathematics-II": "https://drive.google.com/file/d/FAKE_ID_42/view?usp=sharing",
+//         "Applied Physics-II": "https://drive.google.com/file/d/FAKE_ID_43/view?usp=sharing",
+//         "Environmental Science": "https://drive.google.com/drive/folders/1_mNHz2xo30754lAcNJdsQmKZvS3NI_uM?usp=drive_link",
+//         "Programming in C Language": "https://drive.google.com/file/d/FAKE_ID_45/view?usp=sharing",
+//         "Humanities and Social Science": "https://drive.google.com/file/d/FAKE_ID_46/view?usp=sharing",
+//         "Basics of Electrical and Electronics Engineering": "https://drive.google.com/file/d/FAKE_ID_47/view?usp=sharing"
+//       }
+//     },
+//     2: {
+//       "3rd Semester": {
+//         "Discrete Mathematics": "https://drive.google.com/file/d/FAKE_ID_48/view?usp=sharing",
+//         "Software Engineering": "https://drive.google.com/file/d/FAKE_ID_49/view?usp=sharing",
+//         "Design and Analysis of Algorithm": "https://drive.google.com/file/d/FAKE_ID_50/view?usp=sharing",
+//         "Operations Management": "https://drive.google.com/file/d/FAKE_ID_51/view?usp=sharing",
+//         "Ergonomic Design": "https://drive.google.com/file/d/FAKE_ID_52/view?usp=sharing",
+//         "Indian Knowledge System": "https://drive.google.com/file/d/FAKE_ID_53/view?usp=sharing",
+//         "Introduction to Internet of Things": "https://drive.google.com/file/d/FAKE_ID_54/view?usp=sharing"
+//       },
+//       "4th Semester": {
+//         "Database Management Systems": "https://drive.google.com/file/d/FAKE_ID_55/view?usp=sharing",
+//         "Computer Organization and Architecture": "https://drive.google.com/file/d/FAKE_ID_56/view?usp=sharing",
+//         "Operating Systems": "https://drive.google.com/file/d/FAKE_ID_57/view?usp=sharing",
+//         "Indian Knowledge System": "https://drive.google.com/file/d/FAKE_ID_58/view?usp=sharing",
+//         "Advanced IoT and Real World Applications": "https://drive.google.com/file/d/FAKE_ID_59/view?usp=sharing"
+//       }
+//     }
+//     // Continue similarly for years 3 & 4
+//   },
+
+//   "it": {
+//     1: {
+//       "1st Semester": {
+//         "Applied Mathematics": "https://drive.google.com/file/d/FAKE_ID_60/view?usp=sharing",
+//         "Applied Physics": "https://drive.google.com/file/d/FAKE_ID_61/view?usp=sharing",
+//         "Communication Skills": "https://drive.google.com/drive/folders/16lHKOBdPbWruYPks3xLFuJte5MzRGtQm?usp=drive_link",
+//         "Programming with Python": "https://drive.google.com/file/d/FAKE_ID_63/view?usp=sharing",
+//         "Web Application Development": "https://drive.google.com/file/d/FAKE_ID_64/view?usp=sharing",
+//         "IT Workshop": "https://drive.google.com/drive/folders/1Z7Jh7pcu4XgBrEL0ACR0UGerwutaxqAY?usp=drive_link"
+//       },
+//       "2nd Semester": {
+//         "Software Engineering": "https://drive.google.com/file/d/FAKE_ID_66/view?usp=sharing",
+//         "Data Mining": "https://drive.google.com/file/d/FAKE_ID_67/view?usp=sharing",
+//         "Cloud Computing": "https://drive.google.com/file/d/FAKE_ID_68/view?usp=sharing",
+//         "Cyber Security": "https://drive.google.com/file/d/FAKE_ID_69/view?usp=sharing"
+//       }
+//     }
+//     // Continue similarly for other years & semesters
+//   },
+
+//   // Add similar structures for: ece, ece-ai, aiml, mae, dmam, mac
+// };
+const unitMaterials = {
+  "cse-ai": {
+    1: {
+      "1st Semester": {
+        "Probability and Statistics": "https://drive.google.com/file/d/FAKE_ID_1/view?usp=sharing",
+        "Environmental Sciences": "https://drive.google.com/embeddedfolderview?id=1_mNHz2xo30754lAcNJdsQmKZvS3NI_uM#grid",
+        "Communication Skills": "https://drive.google.com/embeddedfolderview?id=16lHKOBdPbWruYPks3xLFuJte5MzRGtQm#grid",
+        "Programming with Python": "https://drive.google.com/embeddedfolderview?id=13BGj6bG5bYCRfImMJ0b28Qwfj0SoXfFX#grid",
+        "Basics of Electrical and Electronics Engineering": "https://drive.google.com/file/d/FAKE_ID_5/view?usp=sharing",
+        "IT Workshop": "https://drive.google.com/embeddedfolderview?id=1Z7Jh7pcu4XgBrEL0ACR0UGerwutaxqAY#grid"
+      },
+      "2nd Semester": {
+        "Computer Organization": "https://drive.google.com/file/d/FAKE_ID_7/view?usp=sharing",
+        "Algorithms": "https://drive.google.com/file/d/FAKE_ID_8/view?usp=sharing",
+        "Operating Systems": "https://drive.google.com/file/d/FAKE_ID_9/view?usp=sharing",
+        "Software Engineering": "https://drive.google.com/file/d/FAKE_ID_10/view?usp=sharing"
+      }
+    }
+    // Continue for other years...
+  },
+
+  "cse": {
+    1: {
+      "1st Semester": {
+        "Applied Mathematics-I": "https://drive.google.com/file/d/FAKE_ID_35/view?usp=sharing",
+        "Applied Physics-I": "https://drive.google.com/file/d/FAKE_ID_36/view?usp=sharing",
+        "Applied Chemistry": "https://drive.google.com/file/d/FAKE_ID_37/view?usp=sharing",
+        "Workshop": "https://drive.google.com/embeddedfolderview?id=1Z7Jh7pcu4XgBrEL0ACR0UGerwutaxqAY#grid",
+        "Programming in C Language": "https://drive.google.com/file/d/FAKE_ID_39/view?usp=sharing",
+        "Humanities and Social Science": "https://drive.google.com/file/d/FAKE_ID_40/view?usp=sharing",
+        "Basics of Electrical and Electronics Engineering": "https://drive.google.com/file/d/FAKE_ID_41/view?usp=sharing"
+      }
+      // 2nd Semester...
+    }
+    // Other years...
+  }
+  
+  // Continue similarly for IT, ECE, ECE-AI, AIML, MAE, DMAM, MAC
+};
+
 
         const holidays = {
           2023: {
@@ -1358,98 +1563,176 @@ function solve(input) {
                 `;
         };
 
-        const renderUnitViewer = (subject, type, unit) => {
-          const notesContent = `
-                    <h2>${subject} - ${type.toUpperCase()} | Unit ${unit}</h2>
-                    <div class="card">
-                        <h3>Example Content for Unit ${unit}</h3>
-                        <p>This is a placeholder for the notes and resources. In a real-world application, this content would be fetched dynamically from a database. This is a dummy example to show how the notes would be displayed.</p>
-                        <p>This section can include text, images, and other media relevant to the unit.</p>
-                        <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" target="_blank">View as PDF</a>
-                    </div>
-                `;
-          dynamicContent.innerHTML = `
-                    <section class="notes-viewer section">
-                        ${notesContent}
-                         <button class="game-back-btn" id="back-to-unit-selection" data-subject="${subject}" data-type="${type}">Back to Units</button>
-                    </section>
-                `;
-        };
+        // const renderUnitViewer = (subject, type, unit) => {
+        //   const notesContent = `
+        //             <h2>${subject} - ${type.toUpperCase()} | Unit ${unit}</h2>
+        //             <div class="card">
+        //                 <h3>Example Content for Unit ${unit}</h3>
+        //                 <p>This is a placeholder for the notes and resources. In a real-world application, this content would be fetched dynamically from a database. This is a dummy example to show how the notes would be displayed.</p>
+        //                 <p>This section can include text, images, and other media relevant to the unit.</p>
+        //                 <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" target="_blank">View as PDF</a>
+        //             </div>
+        //         `;
+        //   dynamicContent.innerHTML = `
+        //             <section class="notes-viewer section">
+        //                 ${notesContent}
+        //                  <button class="game-back-btn" id="back-to-years-btn"data-subject="${subject}" data-type="${type}">Back to Units</button>
+        //             </section>
+        //         `;
+        // };
+        
+       // Render the unit viewer with the material link and back button
+const renderUnitViewer = (branchKey, year, semester, subjectName) => {
+  const link = unitMaterials[branchKey]?.[year]?.[semester]?.[subjectName] || "#";
 
-        // Helper functions for games and notes
-        const loadNotes = () => {
-          const notesArea = document.getElementById("notes-area");
-          const saveNoteBtn = document.getElementById("save-note-btn");
-          const savePdfBtn = document.getElementById("save-pdf-btn");
-          const savedNotesContainer = document.getElementById(
-            "saved-notes-container"
-          );
+  dynamicContent.innerHTML = `
+    <section class="notes-viewer section">
+      <h2>${subjectName} | ${semester}</h2>
+      <div class="card">
+        <a href="${link}" target="_blank" class="open-material-btn">Open Material</a>
+      </div>
+      <button class="game-back-btn" id="back-to-unit-selection" 
+              data-branch="${branchKey}" 
+              data-year="${year}">
+        Back to Units
+      </button>
+    </section>
+  `;
 
-          const savedNotes = JSON.parse(
-            localStorage.getItem("igdtuw_saved_notes") || "[]"
-          );
+  // Add click listener for back button dynamically
+  document.getElementById("back-to-unit-selection").addEventListener("click", (e) => {
+    const branch = e.target.dataset.branch;
+    const year = e.target.dataset.year;
+    renderSemesterViewer(branch, year); // Make sure you have this function to show the units again
+  });
+};
 
-          savedNotesContainer.innerHTML = "";
-          savedNotes.forEach((note, index) => {
-            const noteElement = document.createElement("div");
-            noteElement.classList.add("saved-note");
-            noteElement.innerHTML = `
-                        <div>
-                            <p>${note.text}</p>
-                            <div class="note-date">${new Date(
-                              note.date
-                            ).toLocaleString()}</div>
-                        </div>
-                        <button class="remove-note-btn" data-index="${index}">Remove</button>
-                    `;
-            savedNotesContainer.appendChild(noteElement);
-          });
+// Load and manage notes dynamically
+const loadNotes = () => {
+  const notesArea = document.getElementById("notes-area");
+  const saveNoteBtn = document.getElementById("save-note-btn");
+  const savePdfBtn = document.getElementById("save-pdf-btn");
+  const savedNotesContainer = document.getElementById("saved-notes-container");
 
-          if (saveNoteBtn) {
-            saveNoteBtn.addEventListener("click", () => {
-              const noteContent = notesArea.value.trim();
-              if (noteContent) {
-                const newNote = {
-                  text: noteContent,
-                  date: new Date().toISOString(),
-                };
-                savedNotes.push(newNote);
-                localStorage.setItem(
-                  "igdtuw_saved_notes",
-                  JSON.stringify(savedNotes)
-                );
-                notesArea.value = "";
-                loadNotes(); // Reload notes to show the new one
-              }
-            });
-          }
+  const savedNotes = JSON.parse(localStorage.getItem("igdtuw_saved_notes") || "[]");
 
-          if (savePdfBtn) {
-            savePdfBtn.addEventListener("click", () => {
-              const { jsPDF } = window.jspdf;
-              const doc = new jsPDF();
-              const notesContent = document.getElementById("notes-area").value;
-              if (notesContent) {
-                doc.text(notesContent, 10, 10);
-                doc.save("my-notes.pdf");
-              } else {
-                alert("Please write some notes to save as PDF.");
-              }
-            });
-          }
+  savedNotesContainer.innerHTML = savedNotes.map((note, index) => `
+    <div class="saved-note">
+      <div>
+        <p>${note.text}</p>
+        <div class="note-date">${new Date(note.date).toLocaleString()}</div>
+      </div>
+      <button class="remove-note-btn" data-index="${index}">Remove</button>
+    </div>
+  `).join("");
 
-          document.querySelectorAll(".remove-note-btn").forEach((button) => {
-            button.addEventListener("click", (e) => {
-              const index = e.target.dataset.index;
-              savedNotes.splice(index, 1);
-              localStorage.setItem(
-                "igdtuw_saved_notes",
-                JSON.stringify(savedNotes)
-              );
-              loadNotes();
-            });
-          });
-        };
+  // Save new note
+  saveNoteBtn?.addEventListener("click", () => {
+    const noteContent = notesArea.value.trim();
+    if (!noteContent) return alert("Please write a note before saving.");
+    
+    savedNotes.push({ text: noteContent, date: new Date().toISOString() });
+    localStorage.setItem("igdtuw_saved_notes", JSON.stringify(savedNotes));
+    notesArea.value = "";
+    loadNotes(); // Reload notes
+  });
+
+  // Save notes as PDF
+  savePdfBtn?.addEventListener("click", () => {
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+    const notesContent = notesArea.value.trim();
+    if (!notesContent) return alert("Please write some notes to save as PDF.");
+    
+    doc.text(notesContent, 10, 10);
+    doc.save("my-notes.pdf");
+  });
+
+  // Remove note dynamically
+  document.querySelectorAll(".remove-note-btn").forEach(btn => {
+    btn.addEventListener("click", e => {
+      const index = e.target.dataset.index;
+      savedNotes.splice(index, 1);
+      localStorage.setItem("igdtuw_saved_notes", JSON.stringify(savedNotes));
+      loadNotes();
+    });
+  });
+};
+
+        // // Helper functions for games and notes
+        // const loadNotes = () => {
+        //   const notesArea = document.getElementById("notes-area");
+        //   const saveNoteBtn = document.getElementById("save-note-btn");
+        //   const savePdfBtn = document.getElementById("save-pdf-btn");
+        //   const savedNotesContainer = document.getElementById(
+        //     "saved-notes-container"
+        //   );
+
+        //   const savedNotes = JSON.parse(
+        //     localStorage.getItem("igdtuw_saved_notes") || "[]"
+        //   );
+
+        //   savedNotesContainer.innerHTML = "";
+        //   savedNotes.forEach((note, index) => {
+        //     const noteElement = document.createElement("div");
+        //     noteElement.classList.add("saved-note");
+        //     noteElement.innerHTML = `
+        //                 <div>
+        //                     <p>${note.text}</p>
+        //                     <div class="note-date">${new Date(
+        //                       note.date
+        //                     ).toLocaleString()}</div>
+        //                 </div>
+        //                 <button class="remove-note-btn" data-index="${index}">Remove</button>
+        //             `;
+        //     savedNotesContainer.appendChild(noteElement);
+        //   });
+
+        //   if (saveNoteBtn) {
+        //     saveNoteBtn.addEventListener("click", () => {
+        //       const noteContent = notesArea.value.trim();
+        //       if (noteContent) {
+        //         const newNote = {
+        //           text: noteContent,
+        //           date: new Date().toISOString(),
+        //         };
+        //         savedNotes.push(newNote);
+        //         localStorage.setItem(
+        //           "igdtuw_saved_notes",
+        //           JSON.stringify(savedNotes)
+        //         );
+        //         notesArea.value = "";
+        //         loadNotes(); // Reload notes to show the new one
+        //       }
+        //     });
+        //   }
+
+        //   if (savePdfBtn) {
+        //     savePdfBtn.addEventListener("click", () => {
+        //       const { jsPDF } = window.jspdf;
+        //       const doc = new jsPDF();
+        //       const notesContent = document.getElementById("notes-area").value;
+        //       if (notesContent) {
+        //         doc.text(notesContent, 10, 10);
+        //         doc.save("my-notes.pdf");
+        //       } else {
+        //         alert("Please write some notes to save as PDF.");
+        //       }
+        //     });
+        //   }
+
+        //   document.querySelectorAll(".remove-note-btn").forEach((button) => {
+        //     button.addEventListener("click", (e) => {
+        //       const index = e.target.dataset.index;
+        //       savedNotes.splice(index, 1);
+        //       localStorage.setItem(
+        //         "igdtuw_saved_notes",
+        //         JSON.stringify(savedNotes)
+        //       );
+        //       loadNotes();
+        //     });
+        //   });
+        // };
 
         const setupCalculator = () => {
           const tableBody = document.getElementById("subjects-table-body");
@@ -2469,3 +2752,42 @@ function solve(input) {
         // Initial page load
         renderHome();
       });
+      // Mobile navbar toggle
+// const menuToggle = document.getElementById("menu-toggle");
+// const navLinks = document.getElementById("nav-links");
+
+// if (menuToggle && navLinks) {
+//   menuToggle.addEventListener("click", () => {
+//     navLinks.classList.toggle("active");
+//   });
+// }
+// Mobile navbar toggle with animation
+const menuToggle = document.getElementById("menu-toggle");
+const navLinks = document.getElementById("nav-links");
+
+if (menuToggle && navLinks) {
+  menuToggle.addEventListener("click", () => {
+    navLinks.classList.toggle("active");
+    menuToggle.classList.toggle("active"); // animate hamburger
+  });
+}
+// Auto close navbar when a link is clicked (mobile)
+document.querySelectorAll("#nav-links a").forEach(link => {
+  link.addEventListener("click", () => {
+    navLinks.classList.remove("active");
+    menuToggle.classList.remove("active");
+  });
+});
+
+dynamicContent.addEventListener("click", function (e) {
+    if (e.target && e.target.id === "back-to-unit-selection") {
+        const subject = e.target.dataset.subject;
+        const type = e.target.dataset.type;
+
+        // Call your function to go back to unit selection
+        showUnitSelection(subject, type); 
+    }
+});
+
+
+
